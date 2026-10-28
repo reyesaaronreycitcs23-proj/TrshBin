@@ -97,13 +97,11 @@ The current version focuses on the ESP32-based hardware system. A Blynk cloud da
 
 ## Project Files and Images
 
-The GitHub repository may contain the following files:
+The GitHub repository contains the following files:
 
-- ESP32 Arduino source code (.ino)
+- ESP32 Arduino IDE source code (.ino)
 - Circuit diagram
-- Hardware setup photographs
-- Project documentation
-- Testing results
+- Prototype
 
 Upload the actual files and images to the repository and update this section with their correct filenames or links.
 
@@ -111,12 +109,15 @@ Upload the actual files and images to the repository and update this section wit
 
 *Sections:* BSIT – 411 and BSIT – 412
 
-1. Calingo, Mary Rose M.
-2. Latoja, Aryanna Claire E.
-3. Pangahin, Marijess S.
-4. Perez, Trishia Yvone G.
-5. Reyes, Jade Andrei A.
-6. Reyes, Aaron Rey M.
+1. Alicpala, Johanan S.
+2. Calingo, Mary Rose M.
+3. Jaralve, Khen G.
+4. Latoja, Aryanna Claire E.
+5. Medrano, Lawrence M.
+6. Pangahin, Marijess S.
+7. Perez, Trishia Yvone G.
+8. Reyes, Aaron Rey M.
+9. Reyes, Jade Andrei A.
 
 ## Instructor
 
