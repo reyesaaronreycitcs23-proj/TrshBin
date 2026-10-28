@@ -97,11 +97,11 @@ The current version focuses on the ESP32-based hardware system. A Blynk cloud da
 
 ## Project Files and Images
 
-The GitHub repository contains the following files:
+This section shows the circuit design and the prototype of the Smart Trash Bin Monitoring and Control System using ESP32.
 
-- ESP32 Arduino IDE source code (.ino)
 - Circuit diagram
-- Prototype
+- Prototype Open
+- Prototype CLose
 
 Upload the actual files and images to the repository and update this section with their correct filenames or links.
 
