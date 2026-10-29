@@ -99,6 +99,7 @@ The current version focuses on the ESP32-based hardware system. A Blynk cloud da
 
 This section shows the circuit design and the prototype of the Smart Trash Bin Monitoring and Control System using ESP32.
 
+- Source Code
 - Circuit diagram
 - Prototype Open
 - Prototype CLose
